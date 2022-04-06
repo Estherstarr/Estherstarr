@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Onomeh Onwuanibe</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img src="https://github.com/ShoiraTa/shoirata/blob/main/assets/0_K2WLMTExLyida7OR(1).gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estherstarr&label=Profile%20views&color=0e75b6&style=flat" alt="estherstarr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anibeesther" target="blank"><img src="https://img.shields.io/twitter/follow/anibeesther?logo=twitter&style=for-the-badge" alt="anibeesther" /></a> </p>
-
+<img align="right" alt="person-coding-gif" src="https://github.com/ShoiraTa/shoirata/raw/main/assets/0_K2WLMTExLyida7OR(1).gif"
+height="250" width= "320" style="max-width:100%";>
 - 🌱 I’m currently learning **JavaScript,React, Ruby and Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://estherstarr.github.io/personalPortfolio/](https://estherstarr.github.io/personalPortfolio/)
