@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/estherstarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="estherstarr" height="30" width="40" /></a>
 <a href="https://twitter.com/anibeesther" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anibeesther" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/onwuanibe-onomeh-52300a19a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onwuanibe-onomeh-52300a19a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/onwuanibe-onomeh-52300a19a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onwuanibe-onomeh" height="30" width="40" /></a>
 <a href="https://instagram.com/@ornome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ornome" height="30" width="40" /></a>
 <a href="https://medium.com/@onome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onome" height="30" width="40" /></a>
 </p>
